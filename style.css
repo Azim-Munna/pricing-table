@@ -97,3 +97,8 @@
     margin-right:  5px;
     margin-left:  2px;
 }
+
+.pricint_table_area .col-sm-4:nth-child(2) .single_pricing_table h3 {
+    background:  #333;
+    color:  #fff;
+}
